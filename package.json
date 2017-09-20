@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikermcneil/sails-hook-orm.git"
+    "url": "git+https://github.com/mikermcneil/sails-hook-orm.git#d1f4e06"
   },
   "keywords": [
     "waterline",
